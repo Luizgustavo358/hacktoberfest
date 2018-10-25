@@ -1,3 +1,8 @@
+#### Name: [ADHONAY JUNIOR](https://github.com/adhonay)
+ - Place: Belo Horizonte, Brazil
+ - Bio: BS Student in Computer Science - PUC Minas.
+ - GitHub: [adhonay](https://github.com/adhonay)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
